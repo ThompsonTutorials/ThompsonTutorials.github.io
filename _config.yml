@@ -3,6 +3,8 @@ title: Thompson Tutorials
 email: info@thompsontutorial.co.uk
 linkedin: https://uk.linkedin.com/pub/lewis-thompson/79/920/b65
 description: "Tutoring from Lewis Thompson"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://thompsontutorials.github.io" # the base hostname & protocol for your site
 
 # Build settings
 
