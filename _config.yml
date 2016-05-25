@@ -4,7 +4,7 @@ email: info@thompsontutorial.co.uk
 linkedin: https://uk.linkedin.com/pub/lewis-thompson/79/920/b65
 description: "Tutoring from Lewis Thompson"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "thompsontutorials.co.uk" # the base hostname & protocol for your site
+url: "http://thompsontutorials.co.uk" # the base hostname & protocol for your site
 
 # Build settings
 
@@ -15,4 +15,4 @@ port: 4000
 
 sass:
   sass_dir: assets/css
-  style: :nested  
+  style: :nested  git 
